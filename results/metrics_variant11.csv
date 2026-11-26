@@ -1,0 +1,4 @@
+﻿filename,threshold,kernel_size,min_area,scratch_count,lengths_px,mse,psnr_db,ssim,elapsed_sec
+surface_1.png,45,3,12,2,440.8;324.2,16.886,35.86,0.9651,0.0141
+surface_2.png,45,3,12,1,439.7,18.213,35.53,0.9653,0.0074
+surface_3.png,45,3,12,1,439.8,23.807,34.36,0.9637,0.0071
