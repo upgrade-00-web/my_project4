@@ -21,15 +21,21 @@
 ## 2. Скриншоты работы программы
 
 На рисунке показан реальный результат запуска программы на тестовом изображении `surface_1.png`.
+<img width="600" height="420" alt="surface_1" src="https://github.com/user-attachments/assets/b2cb799b-18f8-4ea1-856c-1e855c7e6037" />
 
-![Этапы обработки изображения](README_images/pipeline_surface1.png)
 
 Отдельные изображения находятся в папке `results`:
 - `surface_1_01_original.png` — исходное изображение;
+- <img width="600" height="420" alt="surface_1_01_original" src="https://github.com/user-attachments/assets/5aaf3117-7f69-4a7b-8d27-f36e9ca7e9ff" />
 - `surface_1_02_sobel.png` — результат фильтра Собеля;
+- <img width="600" height="420" alt="surface_1_02_sobel" src="https://github.com/user-attachments/assets/86702d9c-4a65-4244-bc7d-cfdf91f11611" />
 - `surface_1_03_threshold.png` — бинарная маска после пороговой обработки;
+- <img width="600" height="420" alt="surface_1_03_threshold" src="https://github.com/user-attachments/assets/3b2c9f5f-345e-4b5d-b28d-c4837e22a8c3" />
 - `surface_1_04_morphology.png` — маска после морфологических операций;
+- <img width="600" height="420" alt="surface_1_04_morphology" src="https://github.com/user-attachments/assets/8ebf0e3a-6d7c-4827-b2ca-cf8d77d379eb" />
 - `surface_1_05_detected.png` — результат с рамками и оценками длины.
+<img width="600" height="420" alt="surface_1_05_detected" src="https://github.com/user-attachments/assets/a829b44a-186d-4fc8-8513-574123d28f62" />
+
 
 ## 3. Состав проекта
 
